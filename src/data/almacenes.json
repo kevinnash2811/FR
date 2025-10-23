@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "code": "1002",
+    "regional": "Santa Cruz",
+    "lat": -17.760556,
+    "lng": -63.192778
+  },
+  {
+    "id": "2",
+    "code": "1003",
+    "regional": "Santa Cruz - Montero",
+    "lat": -17.342778,
+    "lng": -63.2675
+  },
+  {
+    "id": "3",
+    "code": "1005",
+    "regional": "La Paz - El Alto",
+    "lat": -16.520000,
+    "lng": -68.160278
+  },
+  {
+    "id": "4",
+    "code": "CEDIS CBBA",
+    "regional": "Cochabamba - Quillacollo",
+    "lat": -17.399167,
+    "lng": -66.268889
+  },
+  {
+    "id": "5",
+    "code": "1008",
+    "regional": "Oruro",
+    "lat": -17.973611,
+    "lng": -67.100833
+  },
+  {
+    "id": "6",
+    "code": "1009",
+    "regional": "Sucre",
+    "lat": -19.039722,
+    "lng": -65.262778
+  },
+  {
+    "id": "7",
+    "code": "1010",
+    "regional": "Potosi",
+    "lat": -19.588889,
+    "lng": -65.755833
+  },
+  {
+    "id": "8",
+    "code": "1011",
+    "regional": "Tarija",
+    "lat": -21.536944,
+    "lng": -64.731667
+  },
+  {
+    "id": "9",
+    "code": "1012",
+    "regional": "Beni - Trinidad",
+    "lat": -14.838056,
+    "lng": -64.910556
+  },
+  {
+    "id": "10",
+    "code": "CEDIS LA PAZ",
+    "regional": "La Paz",
+    "lat": -16.4925,
+    "lng": -68.146389
+  }
+]

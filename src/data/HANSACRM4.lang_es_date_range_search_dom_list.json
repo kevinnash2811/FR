@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb18"
+  },
+  "label": "Antes de",
+  "value": "less_than"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb19"
+  },
+  "label": "Después de",
+  "value": "greater_than"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb1a"
+  },
+  "label": "Distinto de",
+  "value": "not_equal"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb1b"
+  },
+  "label": "Está entre",
+  "value": "between"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb1c"
+  },
+  "label": "Este año",
+  "value": "this_year"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb1d"
+  },
+  "label": "Este mes",
+  "value": "this_month"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb1e"
+  },
+  "label": "Igual a",
+  "value": "="
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb23"
+  },
+  "label": "Último año",
+  "value": "last_year"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb24"
+  },
+  "label": "Último mes",
+  "value": "last_month"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb25"
+  },
+  "label": "Últimos 30 días",
+  "value": "last_30_days"
+},
+{
+  "_id": {
+    "$oid": "634d59fa44a3950854a5bb26"
+  },
+  "label": "Últimos 7 días",
+  "value": "last_7_days"
+}]
